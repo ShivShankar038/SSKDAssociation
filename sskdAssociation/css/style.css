@@ -182,6 +182,9 @@ footer {
     #mainNav .navbar-nav .nav-item .nav-link, #mainNav .navbar-nav .nav-item .nav-link {
         padding: 1em !important;
     }
+    section {
+        padding: 0px;
+    }
 }
 @media (max-width: 405px) {
     .top-container { display:none; }
