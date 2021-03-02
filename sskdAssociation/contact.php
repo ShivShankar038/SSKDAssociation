@@ -1,3 +1,5 @@
+<php>
+</php>
 <!DOCTYPE html>
 <html class="not-ie no-js" lang="en">
 <head>
