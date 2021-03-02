@@ -1,7 +1,7 @@
 <?php	
 	
 	if (isset($_REQUEST['email']))  {
-		$admin_email = "shivinfolativ@gmail.com";
+		$admin_email = "shivshankar038@@gmail.com";
 		$new_email = $_REQUEST['new_email'];
 		$name = $_REQUEST['name'];
 		$phone = $_REQUEST['phone'];
